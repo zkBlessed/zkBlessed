@@ -3,7 +3,7 @@
 <div align="center">
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=zkBlessed&show_icons=true&theme=github_dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=zkBlessed&show_icons=true&theme=tokyonight"
       media="(prefers-color-scheme: dark)"
     />
     <source
@@ -14,7 +14,7 @@
   </picture>
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zkBlessed&layout=compact&langs_count=16&theme=github_dark"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=zkBlessed&layout=compact&langs_count=16&theme=tokyonight"
       media="(prefers-color-scheme: dark)"
     />
     <source
