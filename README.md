@@ -1,6 +1,6 @@
 ##
 
-<div align="center">
+<div>
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=zkBlessed&show_icons=true&theme=tokyonight"
@@ -23,9 +23,34 @@
     />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=zkBlessed&layout=compact&langs_count=16" />
   </picture>
-  
-  <img height="170em" src="https://media.discordapp.net/attachments/635515695962128389/1084992609803579483/hi.gif"/>
+<div>
+
+##
   
 <div>
+   <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=zkBlessed&repo=calculator-app&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=zkBlessed&repo=calculator-app"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zkBlessed&repo=calculator-app" />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=zkBlessed&repo=zkBlessed&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=zkBlessed&repo=zkBlessed"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zkBlessed&repo=zkBlessed" />
+  </picture>
+  <img align="right" height="170em" src="https://media.discordapp.net/attachments/635515695962128389/1084992609803579483/hi.gif"/>
+</div>
   
 ##
