@@ -50,7 +50,6 @@
     />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=zkBlessed&repo=zkBlessed" />
   </picture>
-  <img align="right" height="170em" src="https://media.discordapp.net/attachments/635515695962128389/1084992609803579483/hi.gif"/>
 </div>
   
 ##
